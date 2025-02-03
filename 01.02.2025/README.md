@@ -8,7 +8,7 @@
     - `fibonacci.py`  
 
 - **📅 Use Dated Folders**:  
-  - Place files in folders named by the corresponding date (e.g., `21.12.2024`).  
+  - Place files in folders named by the corresponding date (e.g., ``).  
 
 Happy Coding! 🚀  
 
