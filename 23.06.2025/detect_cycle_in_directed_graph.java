@@ -1,3 +1,5 @@
+import java.util.*;
+
 class Solution {
     public boolean checkCycle(int node,List<List<Integer>> adj,int[] vis,int[] pathVis){
         vis[node]=1;
